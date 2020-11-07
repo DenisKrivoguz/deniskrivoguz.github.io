@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
         "network": "linkedin",
         "username": "deniskrivoguz",
         "url": "http://linkedin.com/in/deniskrivoguz"
@@ -29,29 +24,24 @@
         "network": "twitter",
         "username": "Denis Krivoguz",
         "url": "http://twitter.com/pony_mapper"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "GIS",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Caratography",
+        "Spatial analysis"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Remote sensing",
       "keywords": [
       ]
     }
