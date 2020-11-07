@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "name": "Denis Krivoguz",
+    "label": "PhD in Geography",
+    "picture": "https://i1.rgstatic.net/ii/profile.image/712454405373955-1546873775515_Q512/Denis_Krivoguz.jpg",
+    "email": "krivoguzdenis@gmail.com",
+    "phone": "+7 (978) 711-59-22",
     "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "298310",
+      "city": "Kerch",
+      "countryCode": "Russian Federation",
+      "region": ""
     },
     "profiles": [
       {
@@ -22,13 +22,13 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "deniskrivoguz",
+        "url": "http://linkedin.com/in/deniskrivoguz"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Denis Krivoguz",
+        "url": "http://twitter.com/pony_mapper"
       },
       {
         "network": "instagram",
