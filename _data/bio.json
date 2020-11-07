@@ -6,7 +6,7 @@
     "email": "krivoguzdenis@gmail.com",
     "phone": "+7 (978) 711-59-22",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I'm an analyst/researcher with 10 years of experience in different projects worldwide. Experienced with using ESRI ArcGIS, QGIS, ENVI, PostgreSQL, Excel, Statistica. Experienced with market research and analysis, land cover mapping and analysis, land use optimization, environmental risk assessment, reporting, monitoring, and evaluation. Highly focused with a comprehensive knowledge and understanding of project management and technical issues. Always working for project quality and high standards. Have a PhD in Geography. ",
     "location": {
       "address": "",
       "postalCode": "298310",
@@ -48,36 +48,35 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Software",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "QGIS",
+        "R",
+        "Adobe Illustrator",
+        "ArcGIS",
+        "ESA SNAP",
+        "Orange"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
+   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Kerch State Maritime technological University, Kerch, Russian Federation",
+      "area": "Ecology and environmental protection",
+      "studyType": "M.S.",
+      "startDate": "2007-09-01",
+      "endDate": "2013-07-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "Southern Federal University, Rostov-on-Don, Russian Federation",
+      "area": "Geoecology",
+      "studyType": "Ph.D.",
+      "startDate": "2017-09-01",
+      "endDate": "2018-12-28",
       "gpa": "",
       "courses": [
       ]
@@ -85,71 +84,46 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Russian Federal Research Institute Of Fishiries and Oceanography (VNIRO), Rostov-on-Don, Russian Federatio",
+      "position": "Chief officer",
+      "website": "http://www.vniro.ru/en/",
+      "startDate": "2019-09-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "During the working period I've developed a methodology of spatial zoning using k-means clustering",
+        "Organized a monitoring system of the Black Sea surface temperature using Sentinel-3 data."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Kerch State Maritime Technological University, Kerch, Russian Federatio",
+      "position": "Junior research fellow",
+      "website": "https://www.kgmtu.ru/",
+      "startDate": "2017-02-01",
+      "endDate": "2019-09-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "During this time, I took part in 2 research projects aimed at studying and forecasting the ecological and economic perspectives for the development of the Kerch Peninsula and analyzing and modeling the spatial distribution of bird species in the Kerch Peninsula",
+        "With the help of my skills, Ive carried out a multifactor analysis and calculation of the ecological and economic attractiveness of the territory of the Kerch Peninsula in terms of the attractiveness and expediency of developing tourism and other business in the region",
+        "Developed and tested the methodology for assessing the landslide susceptibility in Kerch Peninsula region"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "GISCorps",
+      "website": "https://www.giscorps.org/",
+      "position": "GIS member",
+      "startDate": "2015-02-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "During the working period, I took part in 3 projects, for which I was awarded with 3 certificates",
+        "Conducted a geospatial analysis of the causes and consequences of the floods in Sri Lanka in 2016, which allowed changing approaches to ensuring safety in the region"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+
   "references": [
     {
       "name": "Available upon request",
